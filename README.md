@@ -46,3 +46,5 @@ Key Concepts Demonstrated
 <img width="1479" height="947" alt="UI_with_Risk" src="https://github.com/user-attachments/assets/8fc28248-98ee-4a05-9bb5-6e9c660d286f" />
 
 
+The Projects here reflects the practical geodata management approach applicable to different infrastructure planning and smart city environments.
+
