@@ -34,3 +34,7 @@ Technologies Used:
 
 
 <img width="1488" height="939" alt="UI_with_Legend" src="https://github.com/user-attachments/assets/c0dda650-6e4c-4af2-8412-02bd4a8ad598" />
+
+<img width="1479" height="947" alt="UI_with_Risk" src="https://github.com/user-attachments/assets/8fc28248-98ee-4a05-9bb5-6e9c660d286f" />
+
+
