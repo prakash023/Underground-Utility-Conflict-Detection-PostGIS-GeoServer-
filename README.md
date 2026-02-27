@@ -23,12 +23,21 @@ Core spatial functions used include:
 Technologies Used:
 - PYTON
 - QGIS
-- POSTGRESQL
+- POSTGRESQL/POSTGIS
 - GEOSERVER
-   - Leaflet
+   - Leaflet - (Frontend)
    - HTML/CSS/JS
 
+Key Concepts Demonstrated
 
+   - Geospatial data modeling and CRS harmonization
+   - Spatial intersection and conflict analysis (ST_Intersection)
+
+   - Depth-based risk classification logic
+   - Aggregated project risk scoring
+   - OGC-compliant web service publishing (WMS/WFS)
+
+   - Interactive web GIS visualization
 
 <img width="1188" height="680" alt="geoserver_1" src="https://github.com/user-attachments/assets/cdac527d-ef3f-47db-8c5a-e987dc4a7254" />
 
