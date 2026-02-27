@@ -12,16 +12,13 @@ The project includes spatial analysis processes such as:
 
 
 Core spatial functions used include:
-
 - ST_Buffer
-
 - ST_Intersects
-
 - ST_Intersection
 
 
 Technologies Used:
-- PYTON
+- PYTHON
 - QGIS
 - POSTGRESQL/POSTGIS
 - GEOSERVER
@@ -38,6 +35,8 @@ Key Concepts Demonstrated
    - OGC-compliant web service publishing (WMS/WFS)
 
    - Interactive web GIS visualization
+
+     
 
 <img width="1188" height="680" alt="geoserver_1" src="https://github.com/user-attachments/assets/cdac527d-ef3f-47db-8c5a-e987dc4a7254" />
 
